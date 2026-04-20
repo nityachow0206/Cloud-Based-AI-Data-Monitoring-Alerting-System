@@ -40,7 +40,11 @@ Data Generator → Streaming Queue → Flask API → ML Model → Alerts → Das
 ## 📸 Screenshots
 
 ###📊 Dashboard Preview
-![RESULTS](screenshots/dashboard.png)
+![RESULTS](Screenshots/Result_1.png)
+![RESULTS](Screenshots/Result_2.png)
+![RESULTS](Screenshots/Result_3.png)
+![RESULTS](Screenshots/Result_4.png)
+![RESULTS](Screenshots/Result_5.png)
 
 ---
 
